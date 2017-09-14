@@ -1,2 +1,0 @@
-# ACSS
-Just like that!
